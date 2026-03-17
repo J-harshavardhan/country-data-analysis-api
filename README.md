@@ -41,7 +41,11 @@ No API key required.
 ```
 country-data-analysis/
 │
+
+
 ├── notebook.ipynb   # Main notebook
+
+
 ├── README.md        # Project documentation
 ```
 
@@ -52,7 +56,7 @@ country-data-analysis/
 1. Clone the repository:
 
 ```
-
+https://github.com/J-harshavardhan/country-data-analysis-api.git
 ```
 
 2. Install dependencies:
